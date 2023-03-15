@@ -4,9 +4,9 @@
     --color-dark-gray: #333;
     --color-black: #000;
     --color-white: #fff;
-    --rect-gap: 6px;
+    --rect-gap: 5px;
     --week-gap: 3px;
-    --week-size: 7px;
+    --week-size: 5px;
   }
   
   @page {
@@ -40,7 +40,7 @@
   }
   
   .week-cell {
-    border: 1px solid var(--color-dark-gray);
+    border: 1px solid var(--color-black);
     height: var(--week-size);
     width: var(--week-size);
   }
