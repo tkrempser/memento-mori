@@ -5,8 +5,8 @@
     --color-black: #000;
     --color-white: #fff;
     --rect-gap: 5px;
-    --week-gap: 3px;
-    --week-size: 5px;
+    --week-gap: 2px;
+    --week-size: 6px;
   }
   
   @page {
